@@ -4,3 +4,4 @@ ENV
 selenium_fixture.pyc
 syntax: glob
 *.pyc
+/php4dvd/selenium_fixture.pyc
