@@ -2,3 +2,5 @@ __pycache__
 .idea
 ENV
 selenium_fixture.pyc
+syntax: glob
+*.pyc
